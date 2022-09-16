@@ -29,7 +29,7 @@
 
 
 $.ajax({
-  url: 'https://run.mocky.io/v3/bbe026d5-17c7-4744-989e-e58a23c4e0dc',
+  url: 'https://run.mocky.io/v3/e345e142-4767-4b1a-94e7-f46780ed0af7',
   method: 'get',
   dataType: 'json',
   success: function(response) { 
