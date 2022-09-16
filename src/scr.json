@@ -1,0 +1,552 @@
+{
+    "totalRecords": 8,
+    "items": [
+        {
+            "story_id": "10",
+            "name": "LEGO",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/12.svg",
+            "position": "1",
+            "contents": [
+                {
+                    "story_id": "10",
+                    "content_id": "56",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/2-lego-bjetmen-iz-kollekcii-dzhima-li-art.mp4",
+                    "product_ids": "2321153, 2321189, 2321214",
+                    "link": "https://www.meloman.kz/lego-bjetmen-iz-kollekcii-dzhima-li-art-31205.html?from=stories_lego",
+                    "products": {
+                        "2321153": {
+                            "status": "1",
+                            "entity_id": "2321153",
+                            "attribute_set_id": "84",
+                            "type_id": "simple",
+                            "created_at": "2019-02-22 21:43:50",
+                            "updated_at": "2022-09-13 08:35:52",
+                            "sku": "1088834",
+                            "price": "7490.0000",
+                            "name": "Coccodrillo: Брюки для девочек Арт.W19119101FLO Ц.11; Р.98",
+                            "thumbnail": "https://zdravbud.net/storage/img/dekorativnaya-kosmetika-kak-izbezhat-standartnykh-oshibok.jpg",
+                            "special_price": "7490.0000",
+                            "old_price": null,
+                            "url_key": "coccodrillo-brjuki-dlja-devochek-art-w19119101flo-c-11-r-98",
+                            "is_salable": "1",
+                            "is_retail_stock": "0",
+                            "stock_qty": "4.0000",
+                            "store_id": 1
+                        },
+                        "2321189": {
+                            "status": "1",
+                            "entity_id": "2321189",
+                            "attribute_set_id": "84",
+                            "type_id": "simple",
+                            "created_at": "2019-02-22 21:45:34",
+                            "updated_at": "2019-02-26 21:49:29",
+                            "sku": "1088896",
+                            "price": "13990.0000",
+                            "name": "Coccodrillo: Куртка для девочек Арт.W19152501FRU Ц.22; Р.104",
+                            "thumbnail": null,
+                            "special_price": "13990.0000",
+                            "old_price": null,
+                            "url_key": "coccodrillo-kurtka-dlja-devochek-art-w19152501fru-c-22-r-104",
+                            "is_salable": "1",
+                            "is_retail_stock": "0",
+                            "stock_qty": "13.0000",
+                            "store_id": 1
+                        },
+                        "2321214": {
+                            "status": "1",
+                            "entity_id": "2321214",
+                            "attribute_set_id": "84",
+                            "type_id": "simple",
+                            "created_at": "2019-02-22 21:45:34",
+                            "updated_at": "2019-02-26 21:49:29",
+                            "sku": "1088951",
+                            "price": "3490.0000",
+                            "name": "Coccodrillo: Леггинсы для девочек Арт.W191221A1FRU Ц.22; Р.116",
+                            "thumbnail": null,
+                            "special_price": "3490.0000",
+                            "old_price": null,
+                            "url_key": "coccodrillo-legginsy-dlja-devochek-art-w191221a1fru-c-22-r-116",
+                            "is_salable": "1",
+                            "is_retail_stock": "0",
+                            "stock_qty": "8.0000",
+                            "store_id": 1
+                        }
+                    }
+                },
+                {
+                    "story_id": "10",
+                    "content_id": "57",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/3-lego-mashina-vremeni-iz-nazad-v-buduschee-icons.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/lego-mashina-vremeni-iz-nazad-v-buduschee-icons-10300.html?from=stories_lego",
+                    "products": []
+                },
+                {
+                    "story_id": "10",
+                    "content_id": "58",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/4-lego-bmw-m-1000-rr-technic.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/lego-bmw-m-1000-rr-technic-42130.html?from=stories_lego",
+                    "products": []
+                },
+                {
+                    "story_id": "10",
+                    "content_id": "96",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/lg1.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/super-heroes/lego-molot-tora-super-heroes-76209.html?from=stories_lego",
+                    "products": []
+                },
+                {
+                    "story_id": "10",
+                    "content_id": "97",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/lg2.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/architecture/lego-singapur-architecture-21057.html?from=stories_lego",
+                    "products": []
+                }
+            ]
+        },
+        {
+            "story_id": "12",
+            "name": "Games",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/13.svg",
+            "position": "2",
+            "contents": [
+                {
+                    "story_id": "12",
+                    "content_id": "64",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/1-igrovaja-konsol-playstation-5-fifa-22.MP4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/videogames/playstation/playstation-5/igrovaja-konsol-playstation-5-fifa-22.html?from=stories_games",
+                    "products": []
+                },
+                {
+                    "story_id": "12",
+                    "content_id": "65",
+                    "type": "image",
+                    "content_path": "https://pic4.kidstaff.com.ua/pictures_user/91/268868/29044545/268868_20190922122658_1504_600x600.jpg",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/videogames/playstation/igry-dliya-playstation-5/gran-turismo-7-ps5.html?from=stories_games",
+                    "products": []
+                },
+                {
+                    "story_id": "12",
+                    "content_id": "66",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/the-last-of-us-remastered-odni-iz-nas-ps5.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/the-last-of-us-remastered-odni-iz-nas-ps5.html?from=stories_games",
+                    "products": []
+                },
+                {
+                    "story_id": "12",
+                    "content_id": "67",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/god-of-war-ragnarok-ps5.MP4",
+                    "product_ids": "3321153, 3321189, 3321214",
+                    "link": "",
+                    "products": {
+                        "3321153": {
+                            "status": "1",
+                            "entity_id": "3321153",
+                            "attribute_set_id": "84",
+                            "type_id": "simple",
+                            "created_at": "2019-02-22 21:43:50",
+                            "updated_at": "2022-09-13 08:35:52",
+                            "sku": "1088834",
+                            "price": "7490.0000",
+                            "name": "Coccodrillo: Брюки для девочек Арт.W19119101FLO Ц.11; Р.444",
+                            "thumbnail": "https://zdravbud.net/storage/img/dekorativnaya-kosmetika-kak-izbezhat-standartnykh-oshibok.jpg",
+                            "special_price": "7490.0000",
+                            "old_price": null,
+                            "url_key": "coccodrillo-brjuki-dlja-devochek-art-w19119101flo-c-11-r-98",
+                            "is_salable": "1",
+                            "is_retail_stock": "0",
+                            "stock_qty": "4.0000",
+                            "store_id": 1
+                        },
+                        "3321189": {
+                            "status": "1",
+                            "entity_id": "3321189",
+                            "attribute_set_id": "84",
+                            "type_id": "simple",
+                            "created_at": "2019-02-22 21:45:34",
+                            "updated_at": "2019-02-26 21:49:29",
+                            "sku": "1088896",
+                            "price": "13990.0000",
+                            "name": "Coccodrillo: Куртка для девочек Арт.W19152501FRU Ц.22; Р.777",
+                            "thumbnail": null,
+                            "special_price": "13990.0000",
+                            "old_price": null,
+                            "url_key": "coccodrillo-kurtka-dlja-devochek-art-w19152501fru-c-22-r-778",
+                            "is_salable": "1",
+                            "is_retail_stock": "0",
+                            "stock_qty": "13.0000",
+                            "store_id": 1
+                        },
+                        "3321214": {
+                            "status": "1",
+                            "entity_id": "3321214",
+                            "attribute_set_id": "84",
+                            "type_id": "simple",
+                            "created_at": "2019-02-22 21:45:34",
+                            "updated_at": "2019-02-26 21:49:29",
+                            "sku": "1088951",
+                            "price": "3490.0000",
+                            "name": "Coccodrillo: Леггинсы для девочек Арт.W191221A1FRU Ц.22; Р.779",
+                            "thumbnail": null,
+                            "special_price": "3490.0000",
+                            "old_price": null,
+                            "url_key": "coccodrillo-legginsy-dlja-devochek-art-w191221a1fru-c-22-r-800",
+                            "is_salable": "1",
+                            "is_retail_stock": "0",
+                            "stock_qty": "8.0000",
+                            "store_id": 1
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "story_id": "9",
+            "name": "Harry Potter",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/07.svg",
+            "position": "3",
+            "contents": [
+                {
+                    "story_id": "9",
+                    "content_id": "50",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/4-shahmaty-harry-potter.mp4",
+                    "product_ids": "",
+                    "link": "https://www.marwin.kz/shahmaty-harry-potter.html?from=stories_harry_potter",
+                    "products": []
+                },
+                {
+                    "story_id": "9",
+                    "content_id": "51",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/5-lego-uchjoba-v-hogvartse-urok-transfiguracii-harry-potter.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/harry-potter/lego-uchjoba-v-hogvartse-urok-transfiguracii-harry-potter-76382.html?from=stories_harry_potter",
+                    "products": []
+                },
+                {
+                    "story_id": "9",
+                    "content_id": "102",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/hp1.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/lego/harry-potter?from=stories_harry_potter",
+                    "products": []
+                },
+                {
+                    "story_id": "9",
+                    "content_id": "103",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/hp2.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/magic-sets/theory11-suvenirnaja-koloda-kart-harry-potter-red.html?from=stories_harry_potter",
+                    "products": []
+                },
+                {
+                    "story_id": "9",
+                    "content_id": "104",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/hp3.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/kollekcionnaja-replika-metly-nimbus-2000-160-sm.html?from=stories_harry_potter",
+                    "products": []
+                }
+            ]
+        },
+        {
+            "story_id": "16",
+            "name": "Школа",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/09.svg",
+            "position": "4",
+            "contents": [
+                {
+                    "story_id": "16",
+                    "content_id": "110",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/sh1.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/kancelyarskie-nabory/nabor-dlja-risovanija-stabilo-36-predmetov-16-akvarel-nyh-karandashej-12-kapilljarnyh-ruchek-8-flomasterov.html?from=stories_school",
+                    "products": []
+                },
+                {
+                    "story_id": "16",
+                    "content_id": "111",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/sh2.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/shkola-kancelyariya-19236/pis-mennye-prinadlezhnosti/linery/nabor-kapilljarnyh-ruchek-linerov-stabilo-point-88-arty-65-cvetov.html?from=stories_school",
+                    "products": []
+                },
+                {
+                    "story_id": "16",
+                    "content_id": "112",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/sh3.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/nabor-tekstovydelitelej-stabilo-swing-cool-pastel-ot-marina-hoermanseder-18-cvetov-podstavka.html?from=stories_school",
+                    "products": []
+                },
+                {
+                    "story_id": "16",
+                    "content_id": "113",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/sh4.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/brand/grizzly?from=stories_school",
+                    "products": []
+                },
+                {
+                    "story_id": "16",
+                    "content_id": "114",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/sh5.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/ryukzaki/rjukzak-shkol-nyj-podrostkovyj-grizzly-just-live-cherno-birjuzovyj.html?from=stories_school",
+                    "products": []
+                }
+            ]
+        },
+        {
+            "story_id": "14",
+            "name": "В тренде",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/08.svg",
+            "position": "5",
+            "contents": [
+                {
+                    "story_id": "14",
+                    "content_id": "73",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/2-pets-alive-igrushka-tancujuschij-lenivec.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/interactive-toys/pets-alive-igrushka-tancujuschij-lenivec.html?from=stories_nahodki",
+                    "products": []
+                },
+                {
+                    "story_id": "14",
+                    "content_id": "105",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/tr1.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/press/geroi-goo-jit-zu-vozvrashchayutsya-v-boj-v-novoj-serii-dino-xray.html?from=stories_nahodki",
+                    "products": []
+                },
+                {
+                    "story_id": "14",
+                    "content_id": "106",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/tr2.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/digital-technique/fotoapparaty/fotoapparaty-momental-noj-pechati/fotokamera-d-moment-snimkov-instax-mini-11-sky-blue-th-ex-d.html?from=stories_nahodki",
+                    "products": []
+                },
+                {
+                    "story_id": "14",
+                    "content_id": "107",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/tr3.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/dolls-and-accessories/q-posket-disney-figurka-snow-white.html?from=stories_nahodki",
+                    "products": []
+                },
+                {
+                    "story_id": "14",
+                    "content_id": "108",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/tr4.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/razvlekatel-nye-igry/spin-master-dzhumandzhi-interaktivnaja.html?from=stories_nahodki",
+                    "products": []
+                }
+            ]
+        },
+        {
+            "story_id": "4",
+            "name": "Вкусняшки",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/04.svg",
+            "position": "6",
+            "contents": [
+                {
+                    "story_id": "4",
+                    "content_id": "11",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/1-napitok-drpepper-23-polsha.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/napitok-drpepper-23-polsha-2236053.html?from=stories_vkusnyashki",
+                    "products": []
+                },
+                {
+                    "story_id": "4",
+                    "content_id": "12",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/2-sirop-farmand-klubnichnyj-500-g.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/sirop-farmand-klubnichnyj-500-g.html?from=stories_vkusnyashki",
+                    "products": []
+                },
+                {
+                    "story_id": "4",
+                    "content_id": "92",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/4-bundaberg.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/brand/bundaberg?from=stories_vkusnyashki",
+                    "products": []
+                },
+                {
+                    "story_id": "4",
+                    "content_id": "93",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/5-napitok-jenergeticheskij-monster-energy.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/napitok-jenergeticheskij-monster-energy-500-zh-b.html?from=stories_vkusnyashki",
+                    "products": []
+                },
+                {
+                    "story_id": "4",
+                    "content_id": "109",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/vk1.MP4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/sneki-chipsy/chipsy-pringles-sour-cream-onion-smetana-i-luk-165g-pol-sha.html?from=stories_vkusnyashki",
+                    "products": []
+                }
+            ]
+        },
+        {
+            "story_id": "17",
+            "name": "Почитать",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/06.svg",
+            "position": "7",
+            "contents": [
+                {
+                    "story_id": "17",
+                    "content_id": "86",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/3-labkovskij-m-ljublju-i-ponimaju.MP4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/populyarnaya-psihologiya/labkovskij-m-ljublju-i-ponimaju.html?from=stories_read",
+                    "products": []
+                },
+                {
+                    "story_id": "17",
+                    "content_id": "98",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/po1.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/books-for-teenagers/gir-k-nezabudka-na-granice-sveta.html?from=stories_read",
+                    "products": []
+                },
+                {
+                    "story_id": "17",
+                    "content_id": "99",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/po2.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/mosjan-tunsju-blagoslovenie-nebozhitelej-tom-2.html?from=stories_read",
+                    "products": []
+                },
+                {
+                    "story_id": "17",
+                    "content_id": "100",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/po3.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/frjensis-s-djevid-je-holodnoe-serdce-anna-i-jel-za-istorii-kniga-1.html?from=stories_read",
+                    "products": []
+                },
+                {
+                    "story_id": "17",
+                    "content_id": "101",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/po4.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/hej-l-jel-danaly-y-ba-ytty-mir-s-ru-n-s-auly-y.html?from=stories_read",
+                    "products": []
+                }
+            ]
+        },
+        {
+            "story_id": "15",
+            "name": "Послушать",
+            "enable": "1",
+            "store_id": "1",
+            "thumbnail": "https://simg2.marwin.kz/media/stories/15.svg",
+            "position": "8",
+            "contents": [
+                {
+                    "story_id": "15",
+                    "content_id": "75",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/81pos.MP4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/metall-20196/korn-requiem-lr.html?from=stories_listen",
+                    "products": []
+                },
+                {
+                    "story_id": "15",
+                    "content_id": "76",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/2-crosley.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/128113-proigryvateli-vinilovyh-diskov-28264/vinilovyj-proigryvatel-crosley-cruiser-plus-cr8005f-fl4-floral-c-dvuhstoronnim-bluetooth.html?from=stories_listen",
+                    "products": []
+                },
+                {
+                    "story_id": "15",
+                    "content_id": "77",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/83pos.MP4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/alternativa-20188/red-hot-chili-peppers-unlimited-love-deluxe-2lp.html?from=stories_listen",
+                    "products": []
+                },
+                {
+                    "story_id": "15",
+                    "content_id": "78",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/4-vinilovyj-proigryvatel-crosley-cruiser-plus.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/brand/crosley?from=stories_listen",
+                    "products": []
+                },
+                {
+                    "story_id": "15",
+                    "content_id": "95",
+                    "type": "video",
+                    "content_path": "https://simg.marwin.kz/media/stories/5-ost-liio-stitch-coloured-lp.mp4",
+                    "product_ids": "",
+                    "link": "https://www.meloman.kz/ost-liio-stitch-coloured-lp.html.html?from=stories_listen",
+                    "products": []
+                }
+            ]
+        }
+    ]
+}
